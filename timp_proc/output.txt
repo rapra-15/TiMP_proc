@@ -1,0 +1,14 @@
+Filled container. 
+Container contains 5 elements.
+0: It's a Fish: Fish1
+Fish's habitat is River
+1: It's a Bird: Bird1
+Is it a migration bird: Yes
+2: It's a Fish: Fish2
+Fish's habitat is Ocean
+3: It's a Fish: akula
+Fish's habitat is Ocean
+4: It's a Bird: vorobei
+Is it a migration bird: No
+Empty container. 
+Container contains 0 elements.
